@@ -38,7 +38,6 @@ namespace RandomArrayApp
 
             Console.WriteLine();
             Console.ReadKey();
-
         }
     }
 }
